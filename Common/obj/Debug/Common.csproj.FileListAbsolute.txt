@@ -1,0 +1,127 @@
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\Common.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\Common.pdb
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\obj\Debug\Common.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\obj\Debug\Common.pdb
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\Common.dll.config
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\EnvDTE.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\stdole.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Common\obj\Debug\Common.csproj.CopyComplete
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\Common.dll.config
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\Common.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\Common.pdb
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\EnvDTE.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\stdole.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\obj\Debug\Common.csproj.CopyComplete
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\obj\Debug\Common.dll
+C:\Users\Rodri\source\repos\Mi_Negocio - V 2.0\Common\obj\Debug\Common.pdb

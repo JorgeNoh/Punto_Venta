@@ -1,0 +1,16 @@
+C:\Users\Rodri\source\repos\Mi_Negocio\Mi_Negocio\bin\Release\Mi_Negocio.exe.config
+C:\Users\Rodri\source\repos\Mi_Negocio\Mi_Negocio\bin\Release\Mi_Negocio.exe
+C:\Users\Rodri\source\repos\Mi_Negocio\Mi_Negocio\bin\Release\Mi_Negocio.pdb
+C:\Users\Rodri\source\repos\Mi_Negocio\Mi_Negocio\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Rodri\source\repos\Mi_Negocio\Mi_Negocio\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Rodri\source\repos\Mi_Negocio\Mi_Negocio\obj\Release\Mi_Negocio.csprojAssemblyReference.cache
+C:\Users\Rodri\source\repos\Mi_Negocio\Mi_Negocio\obj\Release\Mi_Negocio.Cobrar.resources
+C:\Users\Rodri\source\repos\Mi_Negocio\Mi_Negocio\obj\Release\Mi_Negocio.Forms.RegistrarProductos.resources
+C:\Users\Rodri\source\repos\Mi_Negocio\Mi_Negocio\obj\Release\Mi_Negocio.Forms.Registro.resources
+C:\Users\Rodri\source\repos\Mi_Negocio\Mi_Negocio\obj\Release\Mi_Negocio.Venta.resources
+C:\Users\Rodri\source\repos\Mi_Negocio\Mi_Negocio\obj\Release\Mi_Negocio.Properties.Resources.resources
+C:\Users\Rodri\source\repos\Mi_Negocio\Mi_Negocio\obj\Release\Mi_Negocio.csproj.GenerateResource.cache
+C:\Users\Rodri\source\repos\Mi_Negocio\Mi_Negocio\obj\Release\Mi_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Rodri\source\repos\Mi_Negocio\Mi_Negocio\obj\Release\Mi_Negocio.csproj.CopyComplete
+C:\Users\Rodri\source\repos\Mi_Negocio\Mi_Negocio\obj\Release\Mi_Negocio.exe
+C:\Users\Rodri\source\repos\Mi_Negocio\Mi_Negocio\obj\Release\Mi_Negocio.pdb
